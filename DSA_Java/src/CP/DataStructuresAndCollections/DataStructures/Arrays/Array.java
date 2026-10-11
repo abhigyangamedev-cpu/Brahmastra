@@ -6,10 +6,11 @@ public class Array<T> {
     private Object[] arr;
 
     public Array() {
+        this.size = 0;
+        this.arr = new Object[0];
     }
 
-    @SafeVarargs
-    public Array(T... values) {
+    public Array(T[] values) {
         this.size = values.length;
         this.arr = new Object[size];
 
@@ -31,6 +32,7 @@ public class Array<T> {
 
         System.out.println(" ]");
     }
+
     public void updateByIndex(int index, T value) {
         if (index < 0 || index >= size) {
             System.out.println("Invalid index!");
@@ -50,23 +52,23 @@ public class Array<T> {
     }
 
     public static void main(String[] args) {
-        Array<Integer> arr1 = new Array<>(1, 3, 4);
-        Array<String> arr2 = new Array<>("Java", "C++", "Python");
+
+        Array<Integer> arr1 = new Array<>(new Integer[]{1, 3, 4});
+        Array<String> arr2 = new Array<>(new String[]{"Java", "C++", "Python"});
 
         arr1.traversal();
         arr2.traversal();
 
-        arr1.updateByIndex(1,10);
-        arr2.updateByIndex(2,"C#");
+        arr1.updateByIndex(1, 10);
+        arr2.updateByIndex(2, "C#");
 
         arr1.traversal();
         arr2.traversal();
 
-        arr1.updateByValue(4,56);
-        arr2.updateByValue("Java","Rust");
+        arr1.updateByValue(4, 56);
+        arr2.updateByValue("Java", "Rust");
 
         arr1.traversal();
         arr2.traversal();
-
     }
 }
