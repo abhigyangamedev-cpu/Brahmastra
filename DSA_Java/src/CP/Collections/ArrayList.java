@@ -3,7 +3,6 @@ package CP.Collections;
 import java.util.Arrays;
 import java.util.List;
 
-/** Demonstrates common operations provided by java.util.ArrayList. */
 public class ArrayList {
 
     public static <T> void traversal(List<T> values) {
@@ -25,22 +24,22 @@ public class ArrayList {
         traversal(numbers);
         traversal(languages);
 
-        numbers.set(1, 20);                       // Update by index
-        updateByValue(languages, "C++", "Rust"); // Update by value
+        numbers.set(1, 20);
+        updateByValue(languages, "C++", "Rust");
         System.out.println("After updating by index and value:");
         traversal(numbers);
         traversal(languages);
 
-        numbers.add(4);                           // Add at the end
-        numbers.add(1, 10);                       // Add at an index
+        numbers.add(4);
+        numbers.add(1, 10);
         languages.add("Go");
         languages.add(1, "Kotlin");
         System.out.println("After adding at the end and by index:");
         traversal(numbers);
         traversal(languages);
 
-        numbers.remove(1);                        // Remove by index
-        numbers.remove(Integer.valueOf(4));       // Remove by value
+        numbers.remove(1);
+        numbers.remove(Integer.valueOf(4));
         languages.remove(1);
         languages.remove("Go");
         System.out.println("After removing by index and value:");

@@ -2,7 +2,6 @@ package CP.Arrays;
 
 import java.util.Objects;
 
-/** A small generic array list implemented with a resizable array. */
 public class ArrayList<T> {
 
     private static final int DEFAULT_CAPACITY = 4;
