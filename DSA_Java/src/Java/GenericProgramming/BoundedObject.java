@@ -1,4 +1,4 @@
-package CP.DataStructuresAndCollections.GenericProgramming;
+package Java.GenericProgramming;
 
 // Example 1
 public class BoundedObject<N extends Number> {

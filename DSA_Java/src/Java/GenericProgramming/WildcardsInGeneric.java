@@ -1,4 +1,4 @@
-package CP.DataStructuresAndCollections.GenericProgramming;
+package Java.GenericProgramming;
 
 import java.lang.Object;
 import java.util.ArrayList;

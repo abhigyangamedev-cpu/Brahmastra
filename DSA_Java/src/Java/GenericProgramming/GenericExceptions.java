@@ -1,4 +1,4 @@
-package CP.DataStructuresAndCollections.GenericProgramming;
+package Java.GenericProgramming;
 
 public class GenericExceptions {
     static class MyException extends Exception {

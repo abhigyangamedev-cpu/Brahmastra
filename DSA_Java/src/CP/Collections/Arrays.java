@@ -1,4 +1,4 @@
-package CP.DataStructuresAndCollections.Collections;
+package CP.Collections;
 
 public class Arrays {
 

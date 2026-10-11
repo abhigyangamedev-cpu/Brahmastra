@@ -1,4 +1,4 @@
-package CP.DataStructuresAndCollections.DataStructures.Arrays;
+package CP.Arrays;
 
 public class Array<T> {
 
