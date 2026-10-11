@@ -38,6 +38,6 @@ public class Arrays {
         System.out.println("\nReplacing value 10 with value 20");
         updateByValue(arr, 10, 20);
         traversalForLoop(arr);
-        
+
     }
 }
