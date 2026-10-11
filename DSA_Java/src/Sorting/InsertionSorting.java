@@ -26,7 +26,7 @@ public class InsertionSorting {
     }
 
     public static void main(String[] args){
-        int[] arr = {1,12,3,4,23,5,6};
+        int[] arr = {2,8,-1,12,3,11,10,6,4,9,5,7};
         printArray(arr);
 
         System.out.println("After Sorting");
