@@ -30,7 +30,7 @@ public class RemoveSmallest_1399A {
                 }
             }
 
-            if (check) {
+            if (check || a.length == 1) {
                 System.out.println("YES");
             } else {
                 System.out.println("NO");
