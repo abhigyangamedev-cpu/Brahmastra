@@ -88,6 +88,27 @@ public class TreeNode {
         return result;
     }
 
+    public static List<Integer> iterativePreOrder(TreeNode root){
+        List<Integer> result = new LinkedList<>();
+
+        if(root == null) return result;
+
+        Stack<TreeNode> st = new Stack<>();
+        TreeNode curr = root;
+
+        while (curr != null){
+            result.add(curr.val);
+
+            if(curr.right != null) st.push(curr.right);
+
+            curr = curr.left;
+
+            if(curr == null && !st.isEmpty()) curr = st.pop();
+
+        }
+        return result;
+    }
+
     public static TreeNode buildTree(Integer[] arr) {
         if (arr == null || arr.length == 0 || arr[0] == null) {
             return null;
@@ -159,6 +180,14 @@ public class TreeNode {
         List<Integer> result = iterativeInOrder(root);
 
         for(int ele : result){
+            System.out.print(ele + " ");
+        }
+        System.out.println();
+
+        System.out.println("Iterative PreOrder");
+        List<Integer> result2 = iterativePreOrder(root);
+
+        for(int ele : result2){
             System.out.print(ele + " ");
         }
     }
