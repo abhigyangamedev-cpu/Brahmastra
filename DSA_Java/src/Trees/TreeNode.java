@@ -1,10 +1,7 @@
 package Trees;
 
 
-import java.util.LinkedList;
-import java.util.List;
-import java.util.Queue;
-import java.util.Stack;
+import java.util.*;
 
 public class TreeNode {
 
@@ -141,6 +138,34 @@ public class TreeNode {
         return root;
     }
 
+    public static List<List<Integer>> levelOrder(TreeNode root){
+        List<List<Integer>> levels = new ArrayList<>();
+
+        if(root == null) return levels;
+
+        Queue<TreeNode> q = new LinkedList<TreeNode>();
+        q.offer(root);
+
+        while (!q.isEmpty()){
+            int size = q.size();
+
+            List<Integer> currLevel = new ArrayList<>();
+
+            for(int i = 0; i < size; i++){
+                 TreeNode curr = q.remove();
+
+                 currLevel.add(curr.val);
+
+                 if(curr.left != null) q.add(curr.left);
+                 if(curr.right != null) q.add(curr.right);
+            }
+
+            levels.add(currLevel);
+        }
+
+        return levels;
+    }
+
     public static void main(String[] args) {
 
         TreeNode obj = new TreeNode();
@@ -190,5 +215,11 @@ public class TreeNode {
         for(int ele : result2){
             System.out.print(ele + " ");
         }
+
+        System.out.println();
+
+        System.out.println("Level Order Build Traversal");
+        List<List<Integer>> build = levelOrder(root);
+        System.out.print(build);
     }
 }
