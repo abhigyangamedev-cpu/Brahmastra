@@ -1,4 +1,4 @@
-package Sorting.ProblemSet.Medium.NeetCode;
+package Sorting;
 
 public class BubbleSort {
 
