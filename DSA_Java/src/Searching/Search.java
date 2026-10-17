@@ -1,6 +1,7 @@
 package Searching;
 
 import java.util.Scanner;
+import java.util.Arrays;
 
 public class Search {
 
@@ -8,7 +9,7 @@ public class Search {
         for(int i = 0; i < arr.length; i++){
             if(arr[i] == target) return i;
         }
-        return Integer.MIN_VALUE;
+        return -1;
     }
 
     public static int binarySearch(int[] arr, int target){
@@ -47,6 +48,8 @@ public class Search {
         }
 
         System.out.println("Binary Search");
+
+        Arrays.sort(arr);
 
         int index_bs =  binarySearch(arr,target);
 
