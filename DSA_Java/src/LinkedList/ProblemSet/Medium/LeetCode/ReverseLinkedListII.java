@@ -24,7 +24,7 @@ public class ReverseLinkedListII {
             prev.next = temp;
         }
 
-        return head;
+        return dummy.next;
     }
 
     public static void main(String[] args){
