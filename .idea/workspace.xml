@@ -1,104 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e612029a-67c6-4936-b833-078d0f887747" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Brahmastra.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Arrays/Arrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Arrays/ProblemSet/Easy/LeetCode/pascalTriangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Arrays/ProblemSet/Easy/LeetCode/pascalTriangleII.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Arrays/ProblemSet/Medium/LeetCode/FindTheDuplicateNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Arrays/StandardQuestions/BestTimeToBuyAndSellStock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Arrays/StandardQuestions/BestTimeToBuyAndSellStockII.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Arrays/StandardQuestions/ContainerWithMostWater.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Arrays/StandardQuestions/RemoveElement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Arrays/StandardQuestions/RotateArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Arrays/StandardQuestions/TwoSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/CP/CodeForces/Arrays/MaximumIncrease_702A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/CP/CodeForces/Arrays/RemoveSmallest_1399A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/CP/CodeForces/Arrays/Tram_116A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/CP/CodeForces/Arrays/Watermelon_4A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/CP/Math/MinusTwo_2259B.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/LinkedList/ListNode$ListNodeMethods.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/LinkedList/ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/LinkedList/ProblemSet/Easy/LeetCode/IntersectionOfTwoLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/LinkedList/ProblemSet/Easy/LeetCode/MiddleOfALinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/LinkedList/ProblemSet/Easy/LeetCode/PalindromeLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/LinkedList/ProblemSet/Easy/LeetCode/RemoveDuplicateFromSortedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/LinkedList/ProblemSet/Easy/LeetCode/RemoveLinkedListElements.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/LinkedList/ProblemSet/Medium/LeetCode/AddTwoNumbersII.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/LinkedList/ProblemSet/Medium/LeetCode/DeleteNodesFromLinkedListPresentInAnArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/LinkedList/ProblemSet/Medium/LeetCode/FindTheMinimumAndMaximumNumberOfNodesBetweenCriticalPoints.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/LinkedList/ProblemSet/Medium/LeetCode/MaximumTwimSumOfALinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/LinkedList/ProblemSet/Medium/LeetCode/MergeInBetweenLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/LinkedList/ProblemSet/Medium/LeetCode/MergeNodesInBetweenZeroes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/LinkedList/ProblemSet/Medium/LeetCode/PartitionList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/LinkedList/ProblemSet/Medium/LeetCode/RemoveNodesFromLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/LinkedList/ProblemSet/Medium/LeetCode/RemoveNthNodeFromEndOfList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/LinkedList/ProblemSet/Medium/LeetCode/ReorderLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/LinkedList/ProblemSet/Medium/LeetCode/ReorderList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/LinkedList/ProblemSet/Medium/LeetCode/ReverseLinkedListII.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/LinkedList/ProblemSet/Medium/LeetCode/RotateList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/LinkedList/ProblemSet/Medium/LeetCode/SwapNodesInPairs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/LinkedList/ProblemSet/Medium/LeetCode/SwappingNodesInALinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/LinkedList/StandardQuestions/AddTwoNumbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/LinkedList/StandardQuestions/LinkedListCycle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/LinkedList/StandardQuestions/LinkedListCycleII.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/LinkedList/StandardQuestions/MergeTwoSortedLists.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/LinkedList/StandardQuestions/OddEvenLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/LinkedList/StandardQuestions/ReverseLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Maps/MapExec.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Queues/Queue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Searching/Search.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Sorting/BubbleSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Sorting/InsertionSorting.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Sorting/ProblemSet/Medium/LeetCode/InsertionSortList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Sorting/ProblemSet/Medium/LeetCode/SortColors.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Sorting/ProblemSet/Medium/LeetCode/SortList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Sorting/SelectionSorting.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Stacks/LeetCode/Easy/crawlerLogFolder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Stacks/LeetCode/Easy/implementQueueUsingStacks$MyQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Stacks/LeetCode/Easy/implementQueueUsingStacks.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Stacks/LeetCode/Easy/implementStackUsingQueues$MyStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Stacks/LeetCode/Easy/implementStackUsingQueues.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Stacks/StackNode$Stack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Stacks/StackNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Stacks/StandardQuestions/CheckIfWordIsValidAfterSubstitutions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Stacks/StandardQuestions/ValidateStackSeq.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Stacks/StandardQuestions/validParenthesis.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Stacks/StandardQuestions/validateBST.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Strings/Easy/LeetCode/MergeStringAlternatively.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Strings/Easy/LeetCode/ReverseWordsInAStringIII.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Strings/Medium/LeetCode/StringCompression.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Trees/BinarySearchTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Trees/ProblemSet/LeetCode/Easy/DiameterOfBinaryTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Trees/ProblemSet/LeetCode/Medium/BinaryTreeLevelOrderTraversal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Trees/StandardQuestions/BalancedBinaryTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Trees/StandardQuestions/BinaryTreeInorderTraversal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Trees/StandardQuestions/BinaryTreePostorderTraversal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Trees/StandardQuestions/BinaryTreePreorderTraversal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Trees/StandardQuestions/MaxDepthOfBinaryTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Trees/StandardQuestions/PathSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Trees/StandardQuestions/PathSumII.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Trees/StandardQuestions/SameTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Trees/StandardQuestions/SymmetricTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Trees/TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/TwoPointers/Easy/LeetCode/CheckIfTwoStringArraysAreEquivalent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/TwoPointers/Easy/LeetCode/MergeSortedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/TwoPointers/Easy/LeetCode/RemoveDuplicatesFromSortedArrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/TwoPointers/Easy/LeetCode/ReverseString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/TwoPointers/Easy/LeetCode/SquaredOfASortedArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/TwoPointers/Easy/LeetCode/TwoSum2InputArraySorted.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/TwoPointers/Easy/LeetCode/ValidPalindrome.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/TwoPointers/Easy/LeetCode/ValidPalindromeII.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/TwoPointers/Hard/LeetCode/MedianOfTwoSortedArrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/TwoPointers/Medium/LeetCode/FourSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/TwoPointers/Medium/LeetCode/ThreeSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/TwoPointers/Medium/LeetCode/ThreeSumClosest.class" beforeDir="false" />
-    </list>
+    <list default="true" id="e612029a-67c6-4936-b833-078d0f887747" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -130,7 +33,7 @@
     "ignore.virus.scanning.warn.message": "true",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/victus/Documents/GitHub/Brahmastra",
+    "last_opened_file_path": "/home/victus/Documents/GitHub/Brahmastra/DSA",
     "nodejs_package_manager_path": "npm",
     "to.speed.mode.migration.done": "true"
   }
