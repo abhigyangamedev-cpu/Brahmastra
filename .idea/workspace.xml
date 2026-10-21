@@ -2,199 +2,102 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e612029a-67c6-4936-b833-078d0f887747" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/DSA_Java.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/src/Arrays/Arrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/src/Arrays/ProblemSet/Easy/LeetCode/pascalTriangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/src/Arrays/ProblemSet/Easy/LeetCode/pascalTriangleII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/src/Arrays/ProblemSet/Medium/LeetCode/FindTheDuplicateNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/src/Arrays/StandardQuestions/BestTimeToBuyAndSellStock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/src/Arrays/StandardQuestions/BestTimeToBuyAndSellStockII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/src/Arrays/StandardQuestions/ContainerWithMostWater.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/src/Arrays/StandardQuestions/RemoveElement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/src/Arrays/StandardQuestions/RotateArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/src/Arrays/StandardQuestions/TwoSum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/src/CP/CodeForces/Arrays/MaximumIncrease_702A.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/src/CP/CodeForces/Arrays/RemoveSmallest_1399A.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/src/CP/CodeForces/Arrays/Tram_116A.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/src/CP/CodeForces/Arrays/Watermelon_4A.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/src/CP/Math/MinusTwo_2259B.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/src/LinkedList/ListNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/src/LinkedList/ProblemSet/Easy/LeetCode/IntersectionOfTwoLinkedList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/src/LinkedList/ProblemSet/Easy/LeetCode/MiddleOfALinkedList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/src/LinkedList/ProblemSet/Easy/LeetCode/PalindromeLinkedList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/src/LinkedList/ProblemSet/Easy/LeetCode/RemoveDuplicateFromSortedList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/src/LinkedList/ProblemSet/Easy/LeetCode/RemoveLinkedListElements.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/src/LinkedList/ProblemSet/Medium/LeetCode/AddTwoNumbersII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/src/LinkedList/ProblemSet/Medium/LeetCode/DeleteNodesFromLinkedListPresentInAnArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/src/LinkedList/ProblemSet/Medium/LeetCode/FindTheMinimumAndMaximumNumberOfNodesBetweenCriticalPoints.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/src/LinkedList/ProblemSet/Medium/LeetCode/MaximumTwimSumOfALinkedList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/src/LinkedList/ProblemSet/Medium/LeetCode/MergeInBetweenLinkedList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/src/LinkedList/ProblemSet/Medium/LeetCode/MergeNodesInBetweenZeroes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/src/LinkedList/ProblemSet/Medium/LeetCode/PartitionList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/src/LinkedList/ProblemSet/Medium/LeetCode/RemoveNodesFromLinkedList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/src/LinkedList/ProblemSet/Medium/LeetCode/RemoveNthNodeFromEndOfList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/src/LinkedList/ProblemSet/Medium/LeetCode/ReorderLinkedList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/src/LinkedList/ProblemSet/Medium/LeetCode/ReorderList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/src/LinkedList/ProblemSet/Medium/LeetCode/ReverseLinkedListII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/src/LinkedList/ProblemSet/Medium/LeetCode/RotateList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/src/LinkedList/ProblemSet/Medium/LeetCode/SwapNodesInPairs.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/src/LinkedList/ProblemSet/Medium/LeetCode/SwappingNodesInALinkedList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/src/LinkedList/StandardQuestions/AddTwoNumbers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/src/LinkedList/StandardQuestions/LinkedListCycle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/src/LinkedList/StandardQuestions/LinkedListCycleII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/src/LinkedList/StandardQuestions/MergeTwoSortedLists.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/src/LinkedList/StandardQuestions/OddEvenLinkedList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/src/LinkedList/StandardQuestions/ReverseLinkedList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/src/Maps/MapExec.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/src/Queues/Queue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/src/Searching/Search.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/src/Sorting/BubbleSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/src/Sorting/InsertionSorting.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/src/Sorting/ProblemSet/Medium/LeetCode/InsertionSortList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/src/Sorting/ProblemSet/Medium/LeetCode/SortColors.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/src/Sorting/ProblemSet/Medium/LeetCode/SortList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/src/Sorting/SelectionSorting.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/src/Stacks/LeetCode/Easy/crawlerLogFolder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/src/Stacks/LeetCode/Easy/implementQueueUsingStacks.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/src/Stacks/LeetCode/Easy/implementStackUsingQueues.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/src/Stacks/StackNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/src/Stacks/StandardQuestions/CheckIfWordIsValidAfterSubstitutions.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/src/Stacks/StandardQuestions/ValidateStackSeq.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/src/Stacks/StandardQuestions/validParenthesis.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/src/Stacks/StandardQuestions/validateBST.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/src/Strings/Easy/LeetCode/MergeStringAlternatively.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/src/Strings/Easy/LeetCode/ReverseWordsInAStringIII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/src/Strings/Medium/LeetCode/StringCompression.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/src/Trees/BinarySearchTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/src/Trees/ProblemSet/LeetCode/Easy/DiameterOfBinaryTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/src/Trees/ProblemSet/LeetCode/Medium/BinaryTreeLevelOrderTraversal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/src/Trees/StandardQuestions/BalancedBinaryTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/src/Trees/StandardQuestions/BinaryTreeInorderTraversal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/src/Trees/StandardQuestions/BinaryTreePostorderTraversal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/src/Trees/StandardQuestions/BinaryTreePreorderTraversal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/src/Trees/StandardQuestions/MaxDepthOfBinaryTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/src/Trees/StandardQuestions/PathSum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/src/Trees/StandardQuestions/PathSumII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/src/Trees/StandardQuestions/SameTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/src/Trees/StandardQuestions/SymmetricTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/src/Trees/TreeNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/src/TwoPointers/Easy/LeetCode/CheckIfTwoStringArraysAreEquivalent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/src/TwoPointers/Easy/LeetCode/MergeSortedList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/src/TwoPointers/Easy/LeetCode/RemoveDuplicatesFromSortedArrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/src/TwoPointers/Easy/LeetCode/ReverseString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/src/TwoPointers/Easy/LeetCode/SquaredOfASortedArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/src/TwoPointers/Easy/LeetCode/TwoSum2InputArraySorted.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/src/TwoPointers/Easy/LeetCode/ValidPalindrome.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/src/TwoPointers/Easy/LeetCode/ValidPalindromeII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/src/TwoPointers/Hard/LeetCode/MedianOfTwoSortedArrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/src/TwoPointers/Medium/LeetCode/FourSum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/src/TwoPointers/Medium/LeetCode/ThreeSum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/src/TwoPointers/Medium/LeetCode/ThreeSumClosest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/Arrays/Arrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/Arrays/ProblemSet/Easy/LeetCode/pascalTriangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/Arrays/ProblemSet/Easy/LeetCode/pascalTriangleII.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/Arrays/ProblemSet/Medium/LeetCode/FindTheDuplicateNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/Arrays/StandardQuestions/BestTimeToBuyAndSellStock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/Arrays/StandardQuestions/BestTimeToBuyAndSellStockII.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/Arrays/StandardQuestions/ContainerWithMostWater.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/Arrays/StandardQuestions/RemoveElement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/Arrays/StandardQuestions/RotateArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/Arrays/StandardQuestions/TwoSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/CP/Arrays/Array.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/CP/Arrays/ArrayList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/CP/Arrays/Matrices.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/CP/CodeForces/Arrays/MaximumIncrease_702A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/CP/CodeForces/Arrays/RemoveSmallest_1399A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/CP/CodeForces/Arrays/Tram_116A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/CP/CodeForces/Arrays/Watermelon_4A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/CP/Collections/ArrayList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/CP/Collections/Arrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/CP/Collections/Arrays2D.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/CP/Math/MinusTwo_2259B.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/LinkedList/ListNode$ListNodeMethods.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/LinkedList/ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/LinkedList/ProblemSet/Easy/LeetCode/IntersectionOfTwoLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/LinkedList/ProblemSet/Easy/LeetCode/MiddleOfALinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/LinkedList/ProblemSet/Easy/LeetCode/PalindromeLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/LinkedList/ProblemSet/Easy/LeetCode/RemoveDuplicateFromSortedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/LinkedList/ProblemSet/Easy/LeetCode/RemoveLinkedListElements.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/LinkedList/ProblemSet/Medium/LeetCode/AddTwoNumbersII.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/LinkedList/ProblemSet/Medium/LeetCode/DeleteNodesFromLinkedListPresentInAnArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/LinkedList/ProblemSet/Medium/LeetCode/FindTheMinimumAndMaximumNumberOfNodesBetweenCriticalPoints.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/LinkedList/ProblemSet/Medium/LeetCode/MaximumTwimSumOfALinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/LinkedList/ProblemSet/Medium/LeetCode/MergeInBetweenLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/LinkedList/ProblemSet/Medium/LeetCode/MergeNodesInBetweenZeroes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/LinkedList/ProblemSet/Medium/LeetCode/PartitionList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/LinkedList/ProblemSet/Medium/LeetCode/RemoveNodesFromLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/LinkedList/ProblemSet/Medium/LeetCode/RemoveNthNodeFromEndOfList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/LinkedList/ProblemSet/Medium/LeetCode/ReorderLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/LinkedList/ProblemSet/Medium/LeetCode/ReorderList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/LinkedList/ProblemSet/Medium/LeetCode/ReverseLinkedListII.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/LinkedList/ProblemSet/Medium/LeetCode/RotateList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/LinkedList/ProblemSet/Medium/LeetCode/SwapNodesInPairs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/LinkedList/ProblemSet/Medium/LeetCode/SwappingNodesInALinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/LinkedList/StandardQuestions/AddTwoNumbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/LinkedList/StandardQuestions/LinkedListCycle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/LinkedList/StandardQuestions/LinkedListCycleII.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/LinkedList/StandardQuestions/MergeTwoSortedLists.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/LinkedList/StandardQuestions/OddEvenLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/LinkedList/StandardQuestions/ReverseLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/Maps/MapExec.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/Queues/Queue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/Searching/Search.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/Sorting/BubbleSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/Sorting/InsertionSorting.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/Sorting/ProblemSet/Medium/LeetCode/InsertionSortList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/Sorting/ProblemSet/Medium/LeetCode/SortColors.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/Sorting/ProblemSet/Medium/LeetCode/SortList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/Sorting/SelectionSorting.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/Stacks/LeetCode/Easy/crawlerLogFolder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/Stacks/LeetCode/Easy/implementQueueUsingStacks$MyQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/Stacks/LeetCode/Easy/implementQueueUsingStacks.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/Stacks/LeetCode/Easy/implementStackUsingQueues$MyStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/Stacks/LeetCode/Easy/implementStackUsingQueues.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/Stacks/StackNode$Stack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/Stacks/StackNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/Stacks/StandardQuestions/CheckIfWordIsValidAfterSubstitutions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/Stacks/StandardQuestions/ValidateStackSeq.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/Stacks/StandardQuestions/validParenthesis.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/Stacks/StandardQuestions/validateBST.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/Strings/Easy/LeetCode/MergeStringAlternatively.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/Strings/Easy/LeetCode/ReverseWordsInAStringIII.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/Strings/Medium/LeetCode/StringCompression.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/Trees/BinarySearchTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/Trees/ProblemSet/LeetCode/Easy/DiameterOfBinaryTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/Trees/ProblemSet/LeetCode/Medium/BinaryTreeLevelOrderTraversal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/Trees/StandardQuestions/BalancedBinaryTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/Trees/StandardQuestions/BinaryTreeInorderTraversal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/Trees/StandardQuestions/BinaryTreePostorderTraversal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/Trees/StandardQuestions/BinaryTreePreorderTraversal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/Trees/StandardQuestions/MaxDepthOfBinaryTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/Trees/StandardQuestions/PathSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/Trees/StandardQuestions/PathSumII.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/Trees/StandardQuestions/SameTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/Trees/StandardQuestions/SymmetricTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/Trees/TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/TwoPointers/Easy/LeetCode/CheckIfTwoStringArraysAreEquivalent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/TwoPointers/Easy/LeetCode/MergeSortedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/TwoPointers/Easy/LeetCode/RemoveDuplicatesFromSortedArrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/TwoPointers/Easy/LeetCode/ReverseString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/TwoPointers/Easy/LeetCode/SquaredOfASortedArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/TwoPointers/Easy/LeetCode/TwoSum2InputArraySorted.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/TwoPointers/Easy/LeetCode/ValidPalindrome.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/TwoPointers/Easy/LeetCode/ValidPalindromeII.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/TwoPointers/Hard/LeetCode/MedianOfTwoSortedArrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/TwoPointers/Medium/LeetCode/FourSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/TwoPointers/Medium/LeetCode/ThreeSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/TwoPointers/Medium/LeetCode/ThreeSumClosest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Brahmastra.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Arrays/Arrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Arrays/ProblemSet/Easy/LeetCode/pascalTriangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Arrays/ProblemSet/Easy/LeetCode/pascalTriangleII.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Arrays/ProblemSet/Medium/LeetCode/FindTheDuplicateNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Arrays/StandardQuestions/BestTimeToBuyAndSellStock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Arrays/StandardQuestions/BestTimeToBuyAndSellStockII.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Arrays/StandardQuestions/ContainerWithMostWater.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Arrays/StandardQuestions/RemoveElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Arrays/StandardQuestions/RotateArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Arrays/StandardQuestions/TwoSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/CP/CodeForces/Arrays/MaximumIncrease_702A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/CP/CodeForces/Arrays/RemoveSmallest_1399A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/CP/CodeForces/Arrays/Tram_116A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/CP/CodeForces/Arrays/Watermelon_4A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/CP/Math/MinusTwo_2259B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/LinkedList/ListNode$ListNodeMethods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/LinkedList/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/LinkedList/ProblemSet/Easy/LeetCode/IntersectionOfTwoLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/LinkedList/ProblemSet/Easy/LeetCode/MiddleOfALinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/LinkedList/ProblemSet/Easy/LeetCode/PalindromeLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/LinkedList/ProblemSet/Easy/LeetCode/RemoveDuplicateFromSortedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/LinkedList/ProblemSet/Easy/LeetCode/RemoveLinkedListElements.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/LinkedList/ProblemSet/Medium/LeetCode/AddTwoNumbersII.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/LinkedList/ProblemSet/Medium/LeetCode/DeleteNodesFromLinkedListPresentInAnArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/LinkedList/ProblemSet/Medium/LeetCode/FindTheMinimumAndMaximumNumberOfNodesBetweenCriticalPoints.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/LinkedList/ProblemSet/Medium/LeetCode/MaximumTwimSumOfALinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/LinkedList/ProblemSet/Medium/LeetCode/MergeInBetweenLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/LinkedList/ProblemSet/Medium/LeetCode/MergeNodesInBetweenZeroes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/LinkedList/ProblemSet/Medium/LeetCode/PartitionList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/LinkedList/ProblemSet/Medium/LeetCode/RemoveNodesFromLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/LinkedList/ProblemSet/Medium/LeetCode/RemoveNthNodeFromEndOfList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/LinkedList/ProblemSet/Medium/LeetCode/ReorderLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/LinkedList/ProblemSet/Medium/LeetCode/ReorderList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/LinkedList/ProblemSet/Medium/LeetCode/ReverseLinkedListII.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/LinkedList/ProblemSet/Medium/LeetCode/RotateList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/LinkedList/ProblemSet/Medium/LeetCode/SwapNodesInPairs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/LinkedList/ProblemSet/Medium/LeetCode/SwappingNodesInALinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/LinkedList/StandardQuestions/AddTwoNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/LinkedList/StandardQuestions/LinkedListCycle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/LinkedList/StandardQuestions/LinkedListCycleII.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/LinkedList/StandardQuestions/MergeTwoSortedLists.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/LinkedList/StandardQuestions/OddEvenLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/LinkedList/StandardQuestions/ReverseLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Maps/MapExec.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Queues/Queue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Searching/Search.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Sorting/BubbleSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Sorting/InsertionSorting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Sorting/ProblemSet/Medium/LeetCode/InsertionSortList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Sorting/ProblemSet/Medium/LeetCode/SortColors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Sorting/ProblemSet/Medium/LeetCode/SortList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Sorting/SelectionSorting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Stacks/LeetCode/Easy/crawlerLogFolder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Stacks/LeetCode/Easy/implementQueueUsingStacks$MyQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Stacks/LeetCode/Easy/implementQueueUsingStacks.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Stacks/LeetCode/Easy/implementStackUsingQueues$MyStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Stacks/LeetCode/Easy/implementStackUsingQueues.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Stacks/StackNode$Stack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Stacks/StackNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Stacks/StandardQuestions/CheckIfWordIsValidAfterSubstitutions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Stacks/StandardQuestions/ValidateStackSeq.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Stacks/StandardQuestions/validParenthesis.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Stacks/StandardQuestions/validateBST.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Strings/Easy/LeetCode/MergeStringAlternatively.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Strings/Easy/LeetCode/ReverseWordsInAStringIII.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Strings/Medium/LeetCode/StringCompression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Trees/BinarySearchTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Trees/ProblemSet/LeetCode/Easy/DiameterOfBinaryTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Trees/ProblemSet/LeetCode/Medium/BinaryTreeLevelOrderTraversal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Trees/StandardQuestions/BalancedBinaryTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Trees/StandardQuestions/BinaryTreeInorderTraversal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Trees/StandardQuestions/BinaryTreePostorderTraversal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Trees/StandardQuestions/BinaryTreePreorderTraversal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Trees/StandardQuestions/MaxDepthOfBinaryTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Trees/StandardQuestions/PathSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Trees/StandardQuestions/PathSumII.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Trees/StandardQuestions/SameTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Trees/StandardQuestions/SymmetricTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/Trees/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/TwoPointers/Easy/LeetCode/CheckIfTwoStringArraysAreEquivalent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/TwoPointers/Easy/LeetCode/MergeSortedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/TwoPointers/Easy/LeetCode/RemoveDuplicatesFromSortedArrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/TwoPointers/Easy/LeetCode/ReverseString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/TwoPointers/Easy/LeetCode/SquaredOfASortedArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/TwoPointers/Easy/LeetCode/TwoSum2InputArraySorted.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/TwoPointers/Easy/LeetCode/ValidPalindrome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/TwoPointers/Easy/LeetCode/ValidPalindromeII.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/TwoPointers/Hard/LeetCode/MedianOfTwoSortedArrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/TwoPointers/Medium/LeetCode/FourSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/TwoPointers/Medium/LeetCode/ThreeSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Brahmastra/TwoPointers/Medium/LeetCode/ThreeSumClosest.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -204,10 +107,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7,
-  "fromUser": false
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3L0jkENXyS9Rb2Rk2VmZzgUEj07" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -222,18 +125,34 @@
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/ADMIN/Desktop/Brahmastra",
-    "nodejs_package_manager_path": "npm"
+    "last_opened_file_path": "/home/victus/Documents/GitHub/Brahmastra",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Brahmastra" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Brahmastra" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-30f59d01ecdd-34e2839f716b-intellij.indexing.shared.core-IU-262.9437.185" />
-        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.9437.185" />
+        <option value="bundled-jdk-30f59d01ecdd-63390994e64e-intellij.indexing.shared.core-IU-262.8665.337" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.8665.337" />
       </set>
     </attachedChunks>
   </component>
