@@ -4,4 +4,4 @@ project(OOPs_CPP)
 set(CMAKE_CXX_STANDARD 20)
 
 add_executable(OOPs_CPP PointersAndReferences
-        PointersAndReferences/DynamicMemoryAllocation.cpp)
+        PointersAndReferences/References.cpp)
