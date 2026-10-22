@@ -1,4 +1,4 @@
-package CP.Math;
+package Math.Codeforces.Rated800;
 
 import java.util.Scanner;
 

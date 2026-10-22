@@ -1,4 +1,4 @@
-package CP.CodeForces.Arrays;
+package Arrays.ProblemSet.Codeforces.Rated800;
 
 import java.io.IOException;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package Stacks.LeetCode.Easy;
+package Stacks.ProblemSet.Easy.LeetCode;
 
 import java.util.LinkedList;
 import java.util.Queue;
