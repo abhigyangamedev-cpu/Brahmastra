@@ -14,13 +14,6 @@ public class Arrays {
         }
     }
 
-    private static void printArrayWhileLoop(int[] a){
-        int i = 0;
-        while(i < a.length){
-            System.out.println("Printing Array using WhileLoop element:- "+ + a[i]);
-            i++;
-        }
-    }
 
     private static boolean CheckIfPresent(int[] a, int value){
         for (int i = 0; i < a.length; i++){
@@ -38,7 +31,6 @@ public class Arrays {
 
         printArrayForLoop(arr);
         printArrayEnhancedLoop(arr);
-        printArrayWhileLoop(arr);
 
         // Updation
         System.out.println("Printing the array after updating the index 2 with number 10 replacing number 3");
