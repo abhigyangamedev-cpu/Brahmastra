@@ -3,7 +3,7 @@ package LinkedList.ProblemSet.Medium.LeetCode;
 import LinkedList.ListNode;
 
 public class RotateList {
-    public static ListNode reverseBetween(ListNode head, int left, int right) {
+    public static ListNode swap(ListNode head, int left, int right) {
         if (head == null || left == right) {
             return head;
         }
@@ -13,15 +13,15 @@ public class RotateList {
 
         ListNode prev = dummy;
 
-        for (int i = 1; i < left; i++) {
+        for (int i = 0; i < left-1; i++) {
             prev = prev.next;
         }
 
-        ListNode cur = prev.next;
+        ListNode curr = prev.next;
 
         for (int i = 0; i < right - left; i++) {
-            ListNode temp = cur.next;
-            cur.next = temp.next;
+            ListNode temp = curr.next;
+            curr.next = temp.next;
             temp.next = prev.next;
             prev.next = temp;
         }
@@ -31,10 +31,11 @@ public class RotateList {
 
     public static int getLength(ListNode head) {
         int count = 0;
+        ListNode curr = head;
 
-        while (head != null) {
+        while (curr != null) {
             count++;
-            head = head.next;
+            curr = curr.next;
         }
 
         return count;
@@ -52,9 +53,9 @@ public class RotateList {
             return head;
         }
 
-        head = reverseBetween(head, 1, n);
-        head = reverseBetween(head, 1, k);
-        head = reverseBetween(head, k + 1, n);
+        head = swap(head, 1, n);
+        head = swap(head, 1, k);
+        head = swap(head, k + 1, n);
 
         return head;
     }
@@ -75,7 +76,7 @@ public class RotateList {
 
         ListNode.ListNodeMethods.printList(ListNode.head);
 
-        ListNode.head = rotateRight(ListNode.head,2);
+        ListNode.head = rotateRight(ListNode.head,3);
 
         ListNode.ListNodeMethods.printList(ListNode.head);
     }
