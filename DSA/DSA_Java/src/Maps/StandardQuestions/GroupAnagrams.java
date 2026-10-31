@@ -21,6 +21,10 @@ public class GroupAnagrams {
     }
 
     public static void main(String[] args){
+        String[] arrs = {"ate","eat","tea","tan","nat","bat"};
+        List<List<String>> ans = groupAnagrams(arrs);
+
+        System.out.print(ans);
 
     }
 }
