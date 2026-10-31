@@ -1,4 +1,4 @@
-package Maps.LeetCode.Easy;
+package Maps.StandardQuestions;
 
 import java.util.*;
 
