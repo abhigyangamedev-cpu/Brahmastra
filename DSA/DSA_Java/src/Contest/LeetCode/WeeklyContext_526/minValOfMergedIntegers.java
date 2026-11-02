@@ -13,4 +13,10 @@ public class minValOfMergedIntegers {
         return MinVal;
 
     }
+
+    public static void main(String[] args){
+
+        int[] arr = {23,55,42,21};
+        System.out.println(minMergedInteger(arr));
+    }
 }
