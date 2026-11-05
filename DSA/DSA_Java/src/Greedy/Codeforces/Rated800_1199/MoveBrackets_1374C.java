@@ -1,4 +1,4 @@
-package Greedy.Codeforces.Rated1000;
+package Greedy.Codeforces.Rated800_1199;
 
 import java.util.Scanner;
 
