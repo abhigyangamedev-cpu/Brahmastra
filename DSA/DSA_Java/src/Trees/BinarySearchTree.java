@@ -71,6 +71,57 @@ public class BinarySearchTree {
         return true;
     }
 
+    public static void delete(int val){
+        root = deleteRecord(root, val);
+    }
+
+    public static TreeNode deleteRecord(TreeNode node, int val){
+
+        if(node == null){
+            return null;
+        }
+
+        if(val < node.val){
+            node.left = deleteRecord(node.left, val);
+        }else if(val > node.val){
+            node.right = deleteRecord(node.right, val);
+        }else{
+
+            // Case 1: No child (Leaf node)
+            if(node.left == null && node.right == null){
+                return null;
+            }
+
+            // Case 2: Only right child
+            if(node.left == null){
+                return node.right;
+            }
+
+            // Case 2: Only left child
+            if(node.right == null){
+                return node.left;
+            }
+
+            // Case 3: Two children
+            TreeNode successor = findMin(node.right);
+
+            node.val = successor.val;
+
+            node.right = deleteRecord(node.right, successor.val);
+        }
+
+        return node;
+    }
+
+    public static TreeNode findMin(TreeNode node){
+
+        while(node.left != null){
+            node = node.left;
+        }
+
+        return node;
+    }
+
     public static void main(String[] args){
         Integer[] arr = {
                 50, 30, 70, 20, 40, 60, 80
