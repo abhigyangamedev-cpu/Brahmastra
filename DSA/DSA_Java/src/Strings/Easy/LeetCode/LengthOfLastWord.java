@@ -1,4 +1,4 @@
-package Arrays.ProblemSet.Easy.LeetCode;
+package Strings.Easy.LeetCode;
 
 public class LengthOfLastWord {
     public static int lengthOfLastWord(String s) {
